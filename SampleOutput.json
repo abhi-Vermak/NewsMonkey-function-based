@@ -1,0 +1,1307 @@
+{
+    "status": "ok",
+    "totalResults": 110,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "bradypsnyder@gmail.com (Brady Snyder)",
+    "title": "Beeper's last attempt at iMessage on Android is here",
+    "description": "Beeper has released an update that restores iMessage on Android through its apps via a Mac or iPhone for registration. If that doesn't work, Beeper is giving up.",
+    "url": "https://www.androidcentral.com/apps-software/beeper-gives-android-imessage-app-one-more-go",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/6q9L2bnAY9rBtPXfQnoWxn-1200-80.jpg",
+    "publishedAt": "2023-12-22T03:05:57Z",
+    "content": "<ul><li>Beeper released a final fix for Beeper Mini that it hopes will both restore functionality and get Apple to back off. </li><li>If it doesn't work out, Beeper said it will no longer fight to ke… [+3879 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Theobsessor.com"
+    },
+    "author": "John Gruber",
+    "title": "The Obsessor",
+    "description": "Hey there. It's Panzer.",
+    "url": "https://www.theobsessor.com/welcome-to-the-obsessor/",
+    "urlToImage": "https://www.theobsessor.com/content/images/size/w1200/2023/12/IMG_6448.jpg-1.webp",
+    "publishedAt": "2023-12-22T00:47:27Z",
+    "content": "Hey there. It's Panzer. I'm a writer, editor, founder and photographer based in California's Central Valley. After a long stint as a retail worker I wrote my way into a career covering startups and e… [+2455 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gigazine.net"
+    },
+    "author": "@GIGAZINE",
+    "title": "iOSのAPIを利用するとどんなアプリでもユーザーに気付かれることなく位置を追跡できてしまう",
+    "description": "iOSに搭載されている「HotspotHelper API」を利用することで、どんなアプリでもユーザーの許可無くリアルタイムに位置を追跡できるという問題をMicrosoftの元エンジニアであるwinguseさんがブログで公開しています。続きを読む...",
+    "url": "https://gigazine.net/news/20231222-apple-allow-apps-tracking-users-location-without-consensus/",
+    "urlToImage": "https://i.gzn.jp/img/2023/12/22/apple-allow-apps-tracking-users-location-without-consensus/00.jpg",
+    "publishedAt": "2023-12-22T04:00:00Z",
+    "content": "iOSHotspotHelper APIMicrosoftwinguse\r\nApple allows applications to track user locations without authorization | Yingyus Bloghttps://wingu.se/2023/11/30/only-apple-can-do-allow-apps-tracking-users-loc… [+924 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "Ray-Ban Meta glasses convinced me to believe in smart glasses",
+    "description": "Smart glasses aren’t a new thing, in fact, they’ve been around for a long time. But over the years, companies have been working on improving them, or at least trying to make them mainstream. Meta is one of the companies trying to do this, and I decided to giv…",
+    "url": "https://9to5mac.com/2023/12/21/ray-ban-meta-glasses-review/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/12/Ray-Ban-Meta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-12-22T01:33:40Z",
+    "content": "Smart glasses aren’t a new thing, in fact, they’ve been around for a long time. But over the years, companies have been working on improving them, or at least trying to make them mainstream. Meta is … [+7168 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Amanda Laskin)",
+    "title": "Get Apple's new M3 MacBook Pro for just $1,399 with free expedited shipping",
+    "description": "Save $200 on a Space Gray 14-inch M3 MacBook Pro with 8GB RAM and 512GB SSD storage. The newly introduced Apple laptop featuring the M3 chip can be yours for just $1,399 at B&H.A last-minute holiday deal from B&H can save you $200 on the latest Apple laptop, …",
+    "url": "https://appleinsider.com/articles/23/12/22/get-apples-new-m3-macbook-pro-for-just-1399-with-free-expedited-shipping",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/57819-117743-macbook-prom3-xl.jpg",
+    "publishedAt": "2023-12-22T01:35:03Z",
+    "content": "Save $200 on a Space Gray 14-inch M3 MacBook Pro with 8GB RAM and 512GB SSD storage. The newly introduced Apple laptop featuring the M3 chip can be yours for just $1,399 at B&amp;H.\r\nA last-minute ho… [+1450 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.jp"
+    },
+    "author": "はらいさん",
+    "title": "Apple Watch、右腕につけてもいいよね",
+    "description": "Photo:はらいさん右利き・右腕派です。長年AppleWatchを愛用している筆者。ある日「あれ、上下逆で使ってます？」と聞かれました。自分はこのスタイルがノーマルだと思っていたのですが、AppleWatchって必ずしも右腕に着けるものではない？AppleWatchを含む「腕時計」は左につけるのが一般的？Image:AppleAppleWatchの公式ページを見てみると、AppleWatchのD",
+    "url": "https://www.gizmodo.jp/2023/12/how-to-wear-apple-watch-on-right.html",
+    "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/12/21/%E5%AE%8C2.jpg?w=1280&h=630&f=jpg",
+    "publishedAt": "2023-12-22T03:30:00Z",
+    "content": "Apple Watch\r\nApple Watch\r\nApple Watch\r\nImage: Apple\r\nApple WatchApple WatchDigital Crown\r\nImage: Apple\r\nApple Watch\r\nApple Watch\r\nPhoto: \r\nApple WatchApple WatchApple Watch\r\nPhoto: \r\nApple Watch1\r\nAp… [+147 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Phandroid - News for Android"
+    },
+    "author": "Mike Viray",
+    "title": "Beeper Mini’s Latest iMessage Workaround Relies on Jailbroken iPhones",
+    "description": "The latest software method is Beeper's last stand.\nThe post Beeper Mini’s Latest iMessage Workaround Relies on Jailbroken iPhones appeared first on Phandroid.",
+    "url": "https://phandroid.com/2023/12/21/beeper-minis-latest-imessage-workaround-relies-on-jailbroken-iphones/",
+    "urlToImage": "https://phandroid.com/wp-content/uploads/2021/12/iphone13-pro-pixel-6-pro.jpg",
+    "publishedAt": "2023-12-22T01:42:52Z",
+    "content": "After a lengthy back-and-forth battle against Apple, it looks like the folks behind Beeper Mini have found a new method to bring over Blue Bubble functionality to Android users, in what is described … [+1730 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "sullyphoto64@gmail.com (Terry Sullivan)",
+    "title": "Apple TV+ dramatically expands total viewership by 42%",
+    "description": "Mark Wahlberg’s “The Family Plan” and “The Morning Show” set records for Apple TV+",
+    "url": "https://www.imore.com/music-movies-tv/apple-tv/apple-tv-dramatically-expands-total-viewership-by-42",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/3Zj3qQzmku8YGGFEXqvuyn-1200-80.jpg",
+    "publishedAt": "2023-12-22T02:42:50Z",
+    "content": "The world of streaming services has become hyper-competitive as of late, with so many services vying for the latest comedies, dramas, limited-series offerings, as well as documentaries, sci-fi featur… [+1517 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "TMZ"
+    },
+    "author": "TMZ Staff",
+    "title": "Rudy Giuliani Hits ATM After Filing For Bankruptcy Following $146M Court Loss",
+    "description": "Rudy Giuliani is pulling out money while he can ... hitting up an ATM in the Big Apple the same day he filed for bankruptcy on the heels of a huge loss in court. TMZ obtained photos of the former New York City mayor pulling out cash Thursday from…",
+    "url": "https://www.tmz.com/2023/12/21/rudy-giuliani-atm-withdrawal-filing-bankruptcy-court-loss-defamation-case/",
+    "urlToImage": "https://imagez.tmz.com/image/ef/16by9/2023/12/22/ef681cb05c154a00b7bc31c68bd00dfd_xl.jpg",
+    "publishedAt": "2023-12-22T01:51:41Z",
+    "content": "Rudy Giuliani is pulling out money while he can ... hitting up an ATM in the Big Apple the same day he filed for bankruptcy on the heels of a huge loss in court.\r\nTMZ obtained photos of the former Ne… [+709 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ifanr.com"
+    },
+    "author": "莫崇宇",
+    "title": "苹果新款 Apple Watch 在美停止线上销售 /周杰伦发布新歌/何小鹏称如果想害朋友就让他造车",
+    "description": "·《Nature》预测 2024 科技大事\n·《沙丘 2》内地定档\n· Midjourney 迎来大更新，图像生成更加真实#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+    "url": "https://www.ifanr.com/1571207",
+    "urlToImage": "https://s3.ifanr.com/images/ep/cover-images/sha_tan_pai_qiu_ren_cover.jpg",
+    "publishedAt": "2023-12-22T00:52:35Z",
+    "content": "*\r\nApple Watch \r\nThe Verge ITC Watch Series 9 Watch Ultra 2 \r\nITC ITC \r\n The verge \r\n Apple Watch Series 6 \r\nNature 2024 \r\nNature 2024 GPT-5 AlphaFold Jupiter\r\n ChatGPT \r\nNatureOpenAI ChatGPT GPT-5 G… [+1362 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Deadline"
+    },
+    "author": "anthonypauldalessandro",
+    "title": "Sony Dates Apple’s ‘Wolfs’ & ‘Project Artemis’ For 2024",
+    "description": "We told you first that Sony won the theatrical distribution deal to handle Apple Original Films Jon Watts’ directed George Clooney and Brad Pitt thriller Wolfs, as well as the Greg Berlanti directed Scarlett Johansson-Channing Tatum movie previously known as …",
+    "url": "https://deadline.com/2023/12/apple-sony-wolfs-project-artemis-release-dates-1235680339/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2023/12/Apple_Original_Films_logo_sony_pictures_logo.jpg?w=1000",
+    "publishedAt": "2023-12-22T00:53:23Z",
+    "content": "We told you first that Sony won the theatrical distribution deal to handle Apple Original Films Jon Watts’ directed George Clooney and Brad Pitt thriller Wolfs, as well as the Greg Berlanti directed … [+1487 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Impress.co.jp"
+    },
+    "author": null,
+    "title": "ヨドバシ・ドット・コムでクリスマスセール、「Apple Watch Series 8/Ultra」などが割引価格で販売",
+    "description": "ヨドバシカメラのECサイト「ヨドバシ・ドット・コム」でクリスマスセールが開始された。Apple Watchシリーズや家電、スマートウォッチ、スマートフォンアクセサリーなどが割引価格で提供されている。",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/1556830.html",
+    "urlToImage": "https://k-tai.watch.impress.co.jp/img/ktw/list/1556/830/cont0.png",
+    "publishedAt": "2023-12-22T03:36:12Z",
+    "content": "ECApple Watch \r\n 24 \r\n Apple Watch Series 8GPS+Cellular59800Apple Watch UltraGPS+Cellular92800 \r\n Galaxy Watch542800Redmi Watch 2 2Lite8800"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Idownloadblog.com"
+    },
+    "author": "Anthony Bouchard",
+    "title": "Save big bucks with these Nintendo Switch game & accessory deals",
+    "description": "The iDB team has searched far and wide to find you the best deals on Nintendo Switch games and accessories ahead of the weekend.",
+    "url": "https://www.idownloadblog.com/2023/12/21/nintendo-switch-deals-part-53/",
+    "urlToImage": "https://media.idownloadblog.com/wp-content/uploads/2023/04/Games-Accessories-Deals-for-Nintendo-Switch.jpg",
+    "publishedAt": "2023-12-22T00:15:59Z",
+    "content": "One of the things that the iDB team likes to do for our readers is curate lists of the best savings on Nintendo Switch games and accessories.\r\nWhy do we do this? Despite being an Apple-focused news s… [+3418 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Merca20.com"
+    },
+    "author": "Kahory Gil Bravo",
+    "title": "Samsung Galaxy S24 al descubierto: Especificaciones filtradas",
+    "description": "Samsung está a punto de sorprender al mundo con el lanzamiento inminente de sus tan esperados Galaxy S24, S24 Plus y S24 Ultra",
+    "url": "https://www.merca20.com/samsung-galaxy-s24-al-descubierto-especificaciones-filtradas/",
+    "urlToImage": "https://files.merca20.com/uploads/2023/12/bigstock-Samsung-Korean-electronics-78198656.jpg",
+    "publishedAt": "2023-12-22T00:15:42Z",
+    "content": "<ul><li>Líder en México, Samsung ocupa el 31 por ciento del mercado de smartphones en 2021. Sus dispositivos Galaxy, como el S21, son populares, destacando por innovación y calidad.\r\n</li><li>Aunque … [+4783 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Cool3c.com"
+    },
+    "author": "Mash Yang",
+    "title": "2024 年版 Apple Watch 可能將採用新錶帶系統",
+    "description": "2024年的Apple Watch可能配備全新錶帶系統，與現有產品不相容。 先前彭博新聞便報導指稱蘋果將重新設計Apple Watch對應錶帶配件，而近期傳聞更透露新款錶帶設計將無法與既有款式互換使用，意味在Apple Watch產品將進入第10年發展之際，將會換上全新錶帶系統。 相關消息指稱，新款Apple Watch將會採用全新設計的錶帶系統，但預期會與既有錶帶配件無法互換使用，甚至透露蘋果正以3D列印技術製作新款Apple Watch鋼製機身，或是以3D列印技術生產鈦金屬錶身。 在此之前，彭博新聞曾報導指稱…",
+    "url": "https://www.cool3c.com/article/206030",
+    "urlToImage": "https://sw.cool3c.com/article/2023/8d1a3afb-2dfb-46fb-9e6e-df56eea31ec4.jpg?fit=max&w=1400&q=80",
+    "publishedAt": "2023-12-22T02:16:58Z",
+    "content": "2024Apple Watch\r\nApple WatchApple Watch10\r\nApple Watch3DApple Watch3D\r\nApple Watch\r\nApple Watch20149Apple Watch1020179iPhone XiPhone10Face IDTouch ID"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iLounge"
+    },
+    "author": "Samantha Wiley",
+    "title": "‘The Buccaneers’ renewed for Apple TV+ 2nd season",
+    "description": "The 1870s show ‘The Buccaneers’ has been renewed for a second season as announced by Apple. ‘The Buccaneers’ tells the story of a group of young American women in 1870 in search of future husbands. The show is based on an unfinished novel of the same name by …",
+    "url": "https://www.ilounge.com/news/apple-tv/the-buccaneers-renewed-for-apple-tv-2nd-season",
+    "urlToImage": "https://www.ilounge.com/wp-content/uploads/2023/12/The-Buccaneers.png",
+    "publishedAt": "2023-12-22T02:35:22Z",
+    "content": "The 1870s show ‘The Buccaneers’ has been renewed for a second season as announced by Apple.\r\n‘The Buccaneers’ tells the story of a group of young American women in 1870 in search of future husbands. … [+699 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Olhardigital.com.br"
+    },
+    "author": "Rodrigo Mozelli",
+    "title": "Usa cabo emprestado para carregar seu celular? Cuidado, você pode ser hackeado",
+    "description": "OMG Cable, lançado pela primeira vez em 2019, é considerado o \"cabo USB mais perigoso do mundo\"\nO post Usa cabo emprestado para carregar seu celular? Cuidado, você pode ser hackeado apareceu primeiro em Olhar Digital.",
+    "url": "https://olhardigital.com.br/2023/12/21/seguranca/usa-cabo-emprestado-para-carregar-seu-celular-cuidado-voce-pode-ser-hackeado/",
+    "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2023/12/cabo_lightning.jpg",
+    "publishedAt": "2023-12-22T00:51:28Z",
+    "content": "Um simples cabo de carregamento USB-C ou Lightning pode parecer inofensivo, mas nem sempre Ã©. HÃ¡ um tipo de cabo que pode fazer inÃºmeras coisas mirabolantes, para o bem e para o mal.\r\nEsse Ã© o OM… [+2194 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "no-reply@tinhte.vn (P.W), P.W",
+    "title": "Sony ước tính năm 2027 sẽ thâm hụt 1.5 tỷ USD vì Activision sáp nhập với Microsoft",
+    "description": "Nội bộ Sony Interactive Entertainment vừa có những nhận xét tương đối tiêu cực về tiềm năng nền tảng PlayStation cạnh tranh với hệ sinh thái game của Microsoft, sau khi thương vụ mua lại Activision Blizzard King của Microsoft đã hoàn tất.",
+    "url": "https://tinhte.vn/thread/sony-uoc-tinh-nam-2027-se-tham-hut-1-5-ty-usd-vi-activision-sap-nhap-voi-microsoft.3750462/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/12/8221119_6100607-Tinhte-PS1.jpg",
+    "publishedAt": "2023-12-22T00:17:50Z",
+    "content": "Theo slide ni b ca Sony, thm chí Microsoft còn ang có k hoch xây dng mt ch ng dng di ng cnh tranh c vi c Apple và Google, k hoch vn hành ca hàng này vào nm 2024. Tuy nhiên theo The Verge, k hoch này … [+2215 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Nhk.or.jp"
+    },
+    "author": null,
+    "title": "2023年紅白歌合戦 出場歌手の曲目を発表",
+    "description": "大みそかに放送されるNHK紅白歌合戦で出場歌手が歌う曲目が発表されました。",
+    "url": "https://www3.nhk.or.jp/news/html/20231222/k10014291141000.html",
+    "urlToImage": "https://www3.nhk.or.jp/news/html/20231222/K10014291141_2312181132_1218114802_01_02.jpg",
+    "publishedAt": "2023-12-22T04:00:38Z",
+    "content": "4\r\nAdo\r\nJUJU\r\nYOASOBI\r\n77\r\nOfficialdismNHKChessboard\r\nTRUE LOVE\r\nMrs. GREEN APPLE\r\n74NHKNHK720BSP4KBS8K1NHK"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Netafull.net"
+    },
+    "author": "コグレマサト",
+    "title": "「Apple Watch Series 9」と「Apple Watch Ultra 2」がアメリカのオンラインのApple Storeで購入不可に",
+    "description": "特許紛争によりApple Watchの血中酸素センサー機器の輸入停止を命じられたAppleですが、予定されていた通りに「Apple Watch Series 9」と「Apple Watch Ultra 2」が、アメリカの...\n投稿 「Apple Watch Series 9」と「Apple Watch Ultra 2」がアメリカのオンラインのApple Storeで購入不可に は ネタフル に最初に表示されました。",
+    "url": "https://netafull.net/apple-watch/0142865.html",
+    "urlToImage": "https://netafull.net/wp-content/uploads/2023/12/apple-watch-Currently-Unavailable.jpg",
+    "publishedAt": "2023-12-22T00:00:00Z",
+    "content": "Apple WatchAppleApple Watch Series 9Apple Watch Ultra 2Apple Store\r\nMasimoAppe StoreApple Watch Series 9Apple Watch Ultra 220231221\r\nITCAppleMasimoApple WatchAppleITC\r\nApple StoreApple Watch Series 9… [+69 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Taisy0.com"
+    },
+    "author": "taisy0",
+    "title": "人気Apple Watch用バンド｢NOMAD Sports Band｣にツートンカラーの限定モデル『NOMAD Sport Band STRIKE』が登場",
+    "description": "本日、アシカンが、NOMAD社の人気商品であるApple Watch 専用バンド「NOMAD Sport Band」の限定商品「NOMAD Sport Band STRIKE」を発売しました。 「NOMAD Sport Band」はメインと",
+    "url": "https://taisy0.com/2023/12/22/182561.html",
+    "urlToImage": "https://taisy0.com/wp-content/uploads/2023/12/NOMADSportBandSTRIKE3.jpg",
+    "publishedAt": "2023-12-22T02:01:27Z",
+    "content": "NOMADApple Watch NOMAD Sport BandNOMAD Sport Band STRIKE\r\nNOMAD Sport BandFKM\r\nApple Watch\r\n20kg\r\nNOMAD Sport Band STRIKE2 / / 3TokyoTool\r\n11,000Apple Watch49/45/44/42mm\r\nNOMAD Sport Band – TokyoTool"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Sspai.com"
+    },
+    "author": "少数派编辑部",
+    "title": "派早报：首批搭载下一代 CarPlay 车企公布",
+    "description": "你可能错过的新鲜事首批搭载下一代CarPlay车企公布12月21日，据CoolHunting和CarandDriver报道，保时捷和阿斯顿·马丁将是首批搭载下一代CarPlay的汽车品牌。据悉，App ...查看全文",
+    "url": "https://sspai.com/post/85260",
+    "urlToImage": "https://cdn.sspai.com/12/22/2023/article/b53e9ebf-b902-ba6e-c1e4-5010c2875ba8.png",
+    "publishedAt": "2023-12-22T00:52:28Z",
+    "content": "CarPlay \r\n12 21 Cool Hunting Car and Driver · CarPlay Apple 2022 WWDC CarPlay CarPlay CarPlay Pepita · CarPlay CarPlay\r\nSony PlayStation 5 \r\n12 21 Sony PlayStation 5 5000 Xbox 2023 7.2% 609 \r\nPS5 202… [+1119 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Los Angeles Times"
+    },
+    "author": "Kevin Baxter",
+    "title": "Commentary: MLS made a colossal mistake to drop U.S. Open Cup. How does Don Garber not get that?",
+    "description": "MLS commissioner Don Garber admitted long ago he didn't know much about soccer when he left the NFL for MLS. He proved it with the U.S. Open Cup decision.",
+    "url": "https://www.latimes.com/sports/soccer/story/2023-12-21/mls-commissioner-decision-us-open-cup",
+    "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/843176e/2147483647/strip/true/crop/4094x2149+930+125/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdb%2F32%2F54310bd14c1d8c00a4f619bc08d3%2Finter-miami-messi-soccer-84050.jpg",
+    "publishedAt": "2023-12-22T00:13:08Z",
+    "content": "Don Garber acknowledged long ago he didnt know much about soccer when he left the NFL for MLS. Last week, the MLS commissioner showed he still doesnt understand the sport.\r\nThe leagues attempt to lim… [+6516 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Macotakara.jp"
+    },
+    "author": "danbo",
+    "title": "Apple、2024年1月20日にApple Infinite Loop、Apple Royal Hawaiianを閉店",
+    "description": "Apple Royal Hawaiian：Apple Infinite Loop\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\nISLANDNEWSやMacRumorsが、Appleは、2024年1月20日に、Apple Infinite Loop、Apple Royal Hawaiianを閉店すると発表したと伝えています。\nAppleは、定期的に小売店舗を評価しており、顧客へのサポートが可能な限り最適な状態にあることを確認してい…",
+    "url": "https://www.macotakara.jp/apple_store/entry-45883.html",
+    "urlToImage": "https://www.macotakara.jp/archives/001/202312/ac980efb1ba0601f.jpg",
+    "publishedAt": "2023-12-22T01:42:33Z",
+    "content": "Apple Royal HawaiianApple Infinite Loop"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Macotakara.jp"
+    },
+    "author": "danbo",
+    "title": "2023年秋の「TOMO-KINキャリア・トーク」で、Apple Japan合同会社社長の秋間亮氏が講演し、チームワークについて語る",
+    "description": "TOMO-KINキャリア・トーク\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\n2023年10月5日に、プルデンシャル支援のTOMODACHI アラムナイ・リーダーシップ・プログラムの一環として「TOMO-KINキャリア・トーク」が開催され、そのゲストとして、Apple Japan合同会社社長の秋間亮氏が講演したことが掲載されています。\n秋間氏は「問題や課題を自分たちだけで解決してはいけない。信頼できるチームと一緒にやる方がずっと…",
+    "url": "https://www.macotakara.jp/news/entry-45884.html",
+    "urlToImage": "https://www.macotakara.jp/archives/001/202312/ff8af2d315f30ce0.jpg",
+    "publishedAt": "2023-12-22T02:15:34Z",
+    "content": "2023105TOMODACHI TOMO-KINApple Japan\r\n5"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Screen Rant"
+    },
+    "author": "Abdullah Al-Ghamdi",
+    "title": "Apple TV+'s Top Shows Revealed By New Data (Which Ones Could Be Renewed)",
+    "description": "Apple TV+ has been on a hot streak with new data offering some insight on which sci-fi dramas and starry limited series could get renewed.",
+    "url": "https://screenrant.com/apple-tv-plus-top-shows-streaming-data/",
+    "urlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/12/a-blended-photo-of-apple-tv-hits-1.jpg",
+    "publishedAt": "2023-12-22T02:02:38Z",
+    "content": "Summary\r\n<ul><li> Apple TV+ has seen a significant rise in viewership, with a 42% increase and doubled total hours consumed in 2023. </li><li>The Morning Show is Apple's top-rated drama and has alrea… [+2666 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Screen Rant"
+    },
+    "author": "Greg MacArthur",
+    "title": "Maestro Soundtrack Guide: Every Song & When It Plays",
+    "description": "Bradley Cooper's Maestro features an enormous soundtrack of original works by the legendary American composer and conductor Leonard Bernstein.",
+    "url": "https://screenrant.com/maestro-movie-soundtrack-songs-guide/",
+    "urlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/12/maestro_soundtrack_guide.jpg",
+    "publishedAt": "2023-12-22T02:50:15Z",
+    "content": "WARNING: SPOILERS ahead for Maestro.\r\nSummary\r\n<ul><li> Maestro is a film that expertly captures the larger-than-life figure of Leonard Bernstein and the impact of his music on the world. </li><li> T… [+11818 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Natalie.mu"
+    },
+    "author": "音楽ナタリー",
+    "title": "「Mステ SUPER LIVE」タイムテーブル公開　三浦大知×Perfume、キンキ×キンプリ豪華コラボ",
+    "description": "本日12月22日18:30からテレビ朝日系で放送の「ミュージックステーション SUPER LIVE 2023」のタイムテーブルが発表された。",
+    "url": "https://natalie.mu/music/news/554281",
+    "urlToImage": "https://ogre.natalie.mu/media/news/music/2023/1222/musicstation_20231222_01.jpg?impolicy=twitter_card_face_crop",
+    "publishedAt": "2023-12-22T00:41:00Z",
+    "content": "122218:30 SUPER LIVE 2023\r\n SUPER LIVE 2023518:30\r\n46\r\n619:00\r\n'23OG\r\nBE:FIRST\r\nPerfume\r\nKinKi Kids\r\nKing &amp; Prince\r\n20:00\r\nMrs. GREEN APPLE\r\nNiziU\r\nStray Kids\r\nSixTONES\r\nLE SSERAFIM21:00\r\n4621:00… [+979 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Yahoo Sports Videos",
+    "title": "There’s one big concern for both the Cowboys & Dolphins | Zero Blitz",
+    "description": "Yahoo Sports’ Jason Fitz is joined by former NFL executive Mike Lombardi to look ahead to this week’s monster showdown in Miami and why both playoff contenders have reason to worry as the regular season winds down. Hear the full conversation on the “Zero Blit…",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cd58e676-c485-4c5d-8ccd-a6a63d5df9c5",
+    "urlToImage": null,
+    "publishedAt": "2023-12-22T00:44:09Z",
+    "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 242 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Moneycontrol"
+    },
+    "author": "Moneycontrol Opinion",
+    "title": "Why Raghuram Rajan is wrong about Indiaâs economic path",
+    "description": "From 2013 to 2018, Rajan âpredictedâ doom for the global economy at the rough rate of once a year. In 2015, he predicted a 1930s-style Great Depression. None of these came true. Perhaps his luck ran out",
+    "url": "https://www.moneycontrol.com/news/opinion/why-raghuram-rajan-is-wrong-about-indias-economic-path-11941291.html",
+    "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/12/MixCollage-15-Dec-2023-12-35-PM-5947-770x433.jpg",
+    "publishedAt": "2023-12-22T03:32:33Z",
+    "content": "Abhishek Banerjee &amp; Karuna Gopal\r\nIt was one morning in December 2022. The two men sat side by side, under the winter sun. India will be lucky to get 5 percent growth next year, Raghuram Rajan to… [+11804 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Technews.tw"
+    },
+    "author": "邱 倢芯",
+    "title": "血氧偵測限制影響擴增，蘋果無法在禁令期間維修過保 Apple Watch",
+    "description": "美國國際貿易委員會（ITC）針對蘋果涉及侵犯 Masimo 二項專利技術的 Apple Watch 血氧偵測禁令，現在影響進一步擴大；據《彭博社》報導，蘋果客戶服務團隊在本週的一份公司備忘錄中提到，該公司將不再提供 Apple Watch Series 6 等超過保修型號的維修服務。 蘋果在本週一時...",
+    "url": "https://technews.tw/2023/12/22/older-apple-watch-models-cannot-be-fixed-now/",
+    "urlToImage": "https://img.technews.tw/wp-content/uploads/2020/10/08093846/120913443_3418916944869176_2343196869636777114_n-e1602121176613.jpg",
+    "publishedAt": "2023-12-22T01:42:35Z",
+    "content": "ITC Masimo Apple Watch Apple Watch Series 6 \r\n 12 21 3 Apple Watch Series 9 Apple Watch Ultra 2 12 24 Apple Store Apple Watch Apple Watch Masimo \r\n Apple Watch"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Technews.tw"
+    },
+    "author": "邱 倢芯",
+    "title": "CPU 資源太滿塞不下，傳蘋果正研究將 LLM 存放於 NAND 中",
+    "description": "為了發展自家的生成式 AI，現在蘋果一直在測試大型語言模型（LLM），但蘋果同時要思考的是，要如何將 LLM 塞進手機與筆電當中。現在有消息指稱，由於 LLM 對 CPU 與記憶體的資源負荷太重，因此蘋果現在正嘗試將 LLM 存放在 NAND 快閃記憶體上，以實現在多個裝置上輕鬆存取的目標。 在一般...",
+    "url": "https://technews.tw/2023/12/22/iphone-genai-llm-nand/",
+    "urlToImage": "https://img.technews.tw/wp-content/uploads/2022/11/23142447/computerchip-technology-electronics-industry.jpg",
+    "publishedAt": "2023-12-22T03:09:28Z",
+    "content": "AILLM LLM LLM CPU LLM NAND \r\nLLM AI DRAM TechPowerUp LLM LLM iPhone AI \r\n iPhone Mac AI AI \r\n AI iPhone RAM 5 25 \r\nApple GPT iPhone 16 Siri \r\n AI iOS 18 OpenAIGoogle 2024 \r\nImage by fabrikasimf on Fr… [+4 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Nextpit.com"
+    },
+    "author": "Jade Bryan",
+    "title": "The iPhone 16 Pro Might Feature an Old But Tested 5X Periscope",
+    "description": "Apple's 2024 iPhone 16 Pro may likely disappoint by featuring a dated 5x telephoto periscope camera. But it may gain a better and larger ultrawide sensor.",
+    "url": "https://www.nextpit.com/apple-iphone-16-pro-5x-telephoto-periscope-camera-old-new-ultrawide",
+    "urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/Apple_iPhone_15_Pro_Max/nextpit_iPhone_15_Pro_Max_Camera_Camera.jpg",
+    "publishedAt": "2023-12-22T00:16:09Z",
+    "content": "The iPhone 15 Pro Max's camera system includes a new 12 MP telephoto camera which uses a folded or tetra prism optics and enables lossless zoom at 5x level. Meanwhile, the iPhone 15 Pro (review) reli… [+2044 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 15 Pro 5G手机 256GB 黑色钛金属 8149元（需用券）",
+    "description": "玩家之道全新的钛合金边框，有史以来最轻最窄边框的Pro系列，更好更清晰的深度拍照体验。京东此款目前活动售价8999元，下单领取满4000减800元优惠券，实付低至8149元，近期好价，感兴趣的值友可以入手。",
+    "url": "https://www.smzdm.com/p/100158993/",
+    "urlToImage": "https://qny.smzdm.com/202312/22/6584e0d85fc079132.jpg_d250.jpg",
+    "publishedAt": "2023-12-22T01:10:31Z",
+    "content": "iPhone 15 Pro 6.1 ProMotion Super Retina XDR 120Hz iOS 17 187 \r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 242835mmiPhone 15 Pro… [+106 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 15 Plus 5G手机 256GB 粉色 6299元（需用券）",
+    "description": "满4000减200元优惠券，参加满5000元减1500元满减活动，售价6299元叠加活动：满5000元减1500元叠加优惠券：满4000减200元",
+    "url": "https://www.smzdm.com/p/100163690/",
+    "urlToImage": "https://y.zdmimg.com/202309/13/6500b39daa7d76266.png_d250.jpg",
+    "publishedAt": "2023-12-22T02:27:39Z",
+    "content": "iPhone 15 Plus IP68 201g7.8mm\r\niPhone 15 Plus 6.7 OLED XDR 2796×1290460ppi2000100%DCI-P360HziPhone 15Plus A16 6 CPU5GPU 16 iPhone 14 Plus 263550%LightningUSB-C\r\niPhone 15 Plus 4800f1.62400120021200f2… [+12 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 15 Pro Max 5G智能手机 256GB 原色钛金属 8999元（需用券）",
+    "description": "玩家之道搭载A17 Pro芯片，更新USB-C接口，使用钛合金边框，潜望式长焦镜头~京东此款目前活动售价9999元，下单领取1000元优惠券，实付低至8999元。",
+    "url": "https://www.smzdm.com/p/100159698/",
+    "urlToImage": "https://y.zdmimg.com/202312/22/6584e10640d1e3576.jpg_d250.jpg",
+    "publishedAt": "2023-12-22T01:10:31Z",
+    "content": "iPhone 15 Pro Max 6.7ProMotion Super Retina XDR 120Hz iOS 17 iPhone 14 Pro Max 19g\r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 2… [+135 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "数码好价早班车：SAMSUNG 三星 Galaxy S23 Ultra 5G手机 12GB+256GB 悠柔白 到手价7224.15元，送耳机、45瓦充电器！ 荣耀 90 GT手机新品发售；南孚 传应 CR2032 纽扣电池 5粒到手价3.9元～",
+    "description": "玩家之道数码产品是我们生活中不可或缺的伙伴，它们不仅提高了我们的工作效率，也丰富了我们的娱乐方式。近期，数码市场上涌现出了许多新鲜有趣的产品和技术，让我们一起来看看都有哪些吧。本文将为您介绍最新的数码资讯，包括手机、电脑、平板、相机等各类数码设备，以及智能家居、人工智能等前沿领域的最新进...",
+    "url": "https://www.smzdm.com/p/100158646/",
+    "urlToImage": "https://y.zdmimg.com/202312/22/6584dbd2e9f7c1670.png_d250.jpg",
+    "publishedAt": "2023-12-22T00:51:59Z",
+    "content": "HONOR 90 GT 5G 12GB+256GB 825998~10012GB+256GB259916GB+256GB289916GB+512GB319924GB+1TB369990GTGTGT1.25mm...|602095490 GTGTGT1.25mm 6.7 2664*1200 OLED 120Hz3840HzPWM0.7100% DCI-P3 1200nit 2600nit185g … [+2162 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Maketecheasier.com"
+    },
+    "author": "Sayak Boral",
+    "title": "How This Cheap Smartwatch That Can Call and Text Changed My Life",
+    "description": "A cheap smartwatch that can call and text is life-changing in many ways. Find out more in this personal look at this useful technology.",
+    "url": "https://www.maketecheasier.com/cheap-smartwatch-changed-my-life/",
+    "urlToImage": "https://www.maketecheasier.com/assets/uploads/2023/12/Featured-Image-How-Cheap-Smartwatch-Changed-My-Life.jpg",
+    "publishedAt": "2023-12-22T01:25:00Z",
+    "content": "I never thought much of smartwatches until I tried one. A cheap smartwatch that can call and text opened my senses to a world of possibilities. When I first used its dial buttons to get in touch with… [+4135 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ozbargain.com.au"
+    },
+    "author": "shabaka",
+    "title": "Apple 2021 MacBook Pro (16\", M1 Pro Chip with 10‑Core CPU & 16‑Core GPU, 16GB RAM, 512GB SSD) $2749 Delivered @ Amazon AU",
+    "description": "M3 MBP 16 with similar config starts at $4299\n\npersonally I see no reason to pay more for M3, this looks like the cheapest you can get a brand new MBP 16 with apple silicon right now\n\neven buying exact same model from Apple refurbished will cost you $100 more…",
+    "url": "https://www.ozbargain.com.au/node/821934",
+    "urlToImage": "https://files.ozbargain.com.au/n/34/821934l.jpg?h=8545df19",
+    "publishedAt": "2023-12-22T00:19:53Z",
+    "content": "yeah but I don't think MBP 16 exists with less than 16. people buy these guys for the screen real estate (which is gorgeous) and extra processing power (which is not much of extra in this model), so … [+303 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ozbargain.com.au"
+    },
+    "author": "O O",
+    "title": "[iOS] Film Noir by Trakt, Just Watch (Free Lifetime IAP) @ Apple App Store",
+    "description": "Indie App Santa Gift: Unlock all FilmNoir features\n\nExplore and track your favourite movies and TV shows with FilmNoir.\n\nToday only: Unlick the premium lifetime version for free!\n\n<ul>\n<li>download the app,</li>\n<li>complete the onboarding or skip,</li>\n<li>s…",
+    "url": "https://www.ozbargain.com.au/node/821985",
+    "urlToImage": "https://files.ozbargain.com.au/n/85/821985l.jpg?h=6b5d4d0a",
+    "publishedAt": "2023-12-22T02:58:20Z",
+    "content": "Indie App Santa Gift: Unlock all FilmNoir features\r\nExplore and track your favourite movies and TV shows with FilmNoir.\r\nToday only: Unlick the premium lifetime version for free!\r\n<ul><li>download th… [+171 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ozbargain.com.au"
+    },
+    "author": "Ozgrabber",
+    "title": "Meross Smart Garage Door Opener Remote (Compatible with Apple Homekit) $54.59 Delivered @ Meross Direct via Amazon AU",
+    "description": "Very Popular Remote garage opener.\n\nPrevious deal\n\nAbout this item\n\nRemote and Voice Control: You can turn garage door on/off from anywhere with internet via the Meross app. Or control your devices hands free, just give voice commands to turn on/off the conne…",
+    "url": "https://www.ozbargain.com.au/node/821948",
+    "urlToImage": "https://files.ozbargain.com.au/n/48/821948l.jpg?h=d2454969",
+    "publishedAt": "2023-12-22T01:07:00Z",
+    "content": "Very Popular Remote garage opener.\r\nPrevious deal\r\nNon Home kit version $44.59\r\nAbout this item\r\nRemote and Voice Control: You can turn garage door on/off from anywhere with internet via the Meross a… [+1384 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ozbargain.com.au"
+    },
+    "author": "Alphaduck99",
+    "title": "Philips Hue LightStrip Plus 2M $81 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
+    "description": "Part of the Philips Hue Amazon boxing day sale\n\n2m lightstrip $81\n\nAlso Garnea 90mm White Ambiance Downlight $51.99",
+    "url": "https://www.ozbargain.com.au/node/821947",
+    "urlToImage": "https://files.ozbargain.com.au/n/47/821947l.jpg?h=a73213f0",
+    "publishedAt": "2023-12-22T01:04:07Z",
+    "content": "I know Hue is like the Apple of smart lights, but damn, $81 on sale price for a 2m strip of lights is one step away from criminal. I suppose it is reliable compared to cheaper brands, but still…"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ozbargain.com.au"
+    },
+    "author": "Shaquille Oatmeal",
+    "title": "Sony XAV-AX6000 Digital Multimedia Receiver + Free Dash Cam $673.97 + $7.95 Shipping/$0 C&C @ Ryda",
+    "description": "Hey cool people\n\nI've had a Sony XAV-AX5000 for a few years and it has been great, but I've just purchased another vehicle, and this time I'm looking at the AX6000, as it has wireless Apple CarPlay and a few other upgrades.\n\nRyda currently has the best deal o…",
+    "url": "https://www.ozbargain.com.au/node/821950",
+    "urlToImage": "https://www.ozbargain.com.au/themes/ozbargain/logo-square.png",
+    "publishedAt": "2023-12-22T01:17:23Z",
+    "content": "Hey cool people\r\nI've had a Sony XAV-AX5000 for a few years and it has been great, but I've just purchased another vehicle, and this time I'm looking at the AX6000, as it has wireless Apple CarPlay a… [+585 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ozbargain.com.au"
+    },
+    "author": "S L",
+    "title": "UGREEN 100W USB C Fast Laptop GaN II Charger, Nexode 4 Ports Charging Station $69.99 Delivered @ UGREEN GROUP via Amazon AU",
+    "description": "About the item\n\n\n <ul>\n <li>100W Max Fast Charge: Connect a single USB-C device for up to 100W of power. Charge a MacBook Pro from 0% to 50% in just 30 minutes.</li>\n <li>4-in-1 Multiport Charger: With superior GaN II tech, 3 USB-C ports and 1 USB-A port prov…",
+    "url": "https://www.ozbargain.com.au/node/821949",
+    "urlToImage": "https://files.ozbargain.com.au/n/49/821949l.jpg?h=6849b77a",
+    "publishedAt": "2023-12-22T01:16:54Z",
+    "content": "All trademarks are owned by their respective owners.OzBargain is an independent community website which has no association with nor endorsement by the respective trademark owners.\r\nCopyright © 2006-2… [+32 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Toodaylab.com"
+    },
+    "author": "吴诗源",
+    "title": "今日消费资讯：周杰伦新单曲《圣诞星》上线、《沙丘 2》内地定档 2024 年 3 月 8 日",
+    "description": "周杰伦新单曲《圣诞星》上线12 月 21 日，周杰伦新单曲《圣诞星》正式上线。作为周杰伦带来的圣诞礼物，这首歌并不需要单独付费（当然仍然是各平台会员才能收听）。目前收听渠道包括 QQ 音乐、酷狗音乐、酷我音乐、咪咕音乐、Apple Music 等。《沙丘 2》内地定档 2024 年 3 月 8 日12 月 21 日，电影《沙丘 2》确认内地正式定档 2024 年 3 月 8 日上映。这个时间晚于北美院线的 2024 年 3 月 1 日。影片继续由维伦纽瓦执导，提莫西·查拉梅、赞达亚等出演。Louis Vuitto…",
+    "url": "https://www.toodaylab.com/82491",
+    "urlToImage": null,
+    "publishedAt": "2023-12-22T00:30:00Z",
+    "content": "12 21 \r\nQQ Apple Music\r\n2 2024 3 8 \r\n12 21 2 2024 3 8 2024 3 1 \r\n·\r\nLouis Vuitton LV Rush \r\n12 21 Louis Vuitton LV Rush Nicolas Ghesquière \r\n12 21 Galenic 45 ActiveAnchor ATP\r\nCharlotte Tilbury \r\n12 … [+43 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Boston Globe"
+    },
+    "author": "KANIS LEUNG",
+    "title": "Hong Kong court rejects activist publisher Jimmy Lai’s bid to throw out sedition charge",
+    "description": "Jimmy Lai was arrested during the city's crackdown on dissidents following huge pro-democracy protests in 2019.",
+    "url": "https://www.bostonglobe.com/2023/12/21/world/hong-kong-court-rejects-activist-publisher-jimmy-lais-bid-throw-out-sedition-charge/",
+    "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/95aOdq0UiBTXLZY7Wv1V3EeIQEw=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/ID6Y55QB2HS4NXKWRVTSVGNSRE.jpg",
+    "publishedAt": "2023-12-22T03:43:20Z",
+    "content": "HONG KONG (AP) A Hong Kong court on Friday rejected a bid by prominent activist publisher Jimmy Lai to throw out a sedition charge against him, delivering the ruling on the third day of his landmark … [+2485 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Blognone.com"
+    },
+    "author": "arjin",
+    "title": "Beeper เพิ่มท่าลงทะเบียนเพื่อส่งข้อความไป iMessage แบบใหม่ - ใช้ iPhone เจลเบรกช่วย",
+    "description": "ความพยายามล่าสุดของแอปแชท Beeper Mini ที่ทำให้สามารถส่งข้อความจาก Android ไปหา iMessage ใน iPhone ให้ได้กล่องข้อความสีฟ้า ด้วยวิธีการวิศวกรรมย้อนกลับ ยังคงมีเรื่องราวภาคต่อ ซึ่งคราวนี้ซับซ้อนยิ่งกว่าเดิม\r\n\nก่อนอื่นทบทวนความพยายามของ Beeper ก่อน โดยหลังใช้วิธี…",
+    "url": "https://www.blognone.com/node/137353",
+    "urlToImage": "https://www.blognone.com/sites/default/files/externals/8a30271070fb9f6eb9d75e9c98f7d641.png",
+    "publishedAt": "2023-12-22T00:22:53Z",
+    "content": "Beeper Mini Android iMessage iPhone \r\n Beeper iMessage Beeper Apple ID registration data Mac Beeper Beeper Mac registration data \r\n Beeper iPhone (6/6s/SE1/7/8/X) Mac Linux Beeper iMessage Wi-Fi Beep… [+66 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "TheWrap"
+    },
+    "author": "Jeremy Fuster",
+    "title": "Sony Adds 2 Apple-Produced Films to 2024 Release Slate",
+    "description": "Columbia Pictures will continue the partnership that began with Ridley Scott's \"Napoleon\" last month\nThe post Sony Adds 2 Apple-Produced Films to 2024 Release Slate appeared first on TheWrap.",
+    "url": "http://www.thewrap.com/sony-apple-2024-release/",
+    "urlToImage": "https://www.thewrap.com/wp-content/uploads/2023/05/Cannes-2023-Scarlett-Johansson.jpg",
+    "publishedAt": "2023-12-22T01:02:52Z",
+    "content": "Sony and Columbia Pictures will continue their partnership with Apple Original Films in 2024, adding two films produced by the Silicon Valley streamer to their 2024 slate. \r\nSony/Columbia will releas… [+288 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Sopitas.com"
+    },
+    "author": "Greta Padilla",
+    "title": "Cartelera de estrenos: Estas son las películas que más esperamos para 2024",
+    "description": "La cartelera de 2024 está llena de estrenos que esperamos desde hace años. Podremos ver el regreso de algunos cineastas icónicos, o bien, algunas películas que...\nThe post Cartelera de estrenos: Estas son las películas que más esperamos para 2024 appeared fir…",
+    "url": "https://www.sopitas.com/cine-y-tv/cartelera-estrenos-peliculas-mas-esperamos-2024-fechas/",
+    "urlToImage": "https://www.sopitas.com/wp-content/uploads/2023/12/peliculas-esperamos-2024-cartelera-estrenos.jpg",
+    "publishedAt": "2023-12-22T00:49:44Z",
+    "content": "Lo que necesitas saber: \r\nYa hay una buena tanda de películas que se van a estrenar en 2024, y por acá les armamos una lista con las que más esperamos con todo y su fecha de estreno.\r\nLa cartelera de… [+31145 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Toys"
+    },
+    "author": "Sponsored Post",
+    "title": "Decluttr’s refurbished iPhones, Android devices, and consoles make gifting tech more affordable",
+    "description": "Normally when we talk about Decluttr here at 9to5Toys, it’s because the company is our official trade-in partner. But with the holidays approaching and the goal to get all of the best tech for everyone on your list without spending full price, we’d be remiss …",
+    "url": "https://9to5toys.com/2023/12/21/decluttr-refurbished-holiday-tech-deals/",
+    "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2023/12/9to5Toys-Hero.jpg?resize=1200%2C628&ssl=1",
+    "publishedAt": "2023-12-22T00:04:59Z",
+    "content": "Normally when we talk about Decluttr here at 9to5Toys, its because the company is our official trade-in partner. But with the holidays approaching and the goal to get all of the best tech for everyon… [+2052 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Electrek"
+    },
+    "author": "Mikey G",
+    "title": "Quick Charge Podcast: December 21, 2023",
+    "description": "Listen to a recap of the top stories of the day from Electrek. Quick Charge is available now on Apple Podcasts, Spotify, TuneIn and our RSS feed for Overcast and other podcast players.\n\r\n\n more…\nThe post Quick Charge Podcast: December 21, 2023 appeared first …",
+    "url": "https://electrek.co/2023/12/21/quick-charge-podcast-december-21-2023/",
+    "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/01/quick-charge-placeholder-lead-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-12-22T00:18:04Z",
+    "content": "Listen to a recap of the top stories of the day from Electrek. Quick Charge is available now on Apple Podcasts, Spotify, TuneIn and our RSS feed for Overcast and other podcast players.\r\nNew episodes … [+636 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fortheloveofcooking.net"
+    },
+    "author": "Pam",
+    "title": "Our Best Christmas Treats",
+    "description": "‘Tis the season to indulge in festive treats so I’ve gathered together some of our best Christmas treats for your family to try. Some recipes are super easy like swirled white chocolate peppermint bark and mini cranberry-apple crisps. Other recipes will take …",
+    "url": "https://fortheloveofcooking.net/2023/12/our-best-christmas-treats.html",
+    "urlToImage": "https://fortheloveofcooking-net.exactdn.com/wp-content/uploads/2020/12/Peppermint-Truffles-7742-2.jpg?strip=all&lossy=1&quality=90&ssl=1",
+    "publishedAt": "2023-12-22T03:00:17Z",
+    "content": "Hi, I'm Pam. The recipes youll find here are family-friendly, simple, and range from healthy to decadent. I hope you find a recipe or two that your family will enjoy."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Zacjohnson.com"
+    },
+    "author": "Zac Johnson",
+    "title": "Scott Pelley Net Worth – How Much is Pelley Worth?",
+    "description": "Scott Pelley, the American television journalist and news anchor, has a net worth of $18 million. He is best known for his long tenure at CBS News, where he served as anchor and managing editor of the CBS Evening News and as a correspondent for the network’s …",
+    "url": "https://zacjohnson.com/scott-pelley-net-worth/",
+    "urlToImage": "https://zacjohnson.com/wp-content/uploads/2023/12/Scott-Pelley-Net-Worth.jpg",
+    "publishedAt": "2023-12-22T03:22:58Z",
+    "content": "Scott Pelley, the American television journalist and news anchor, has a net worth of $18 million. He is best known for his long tenure at CBS News, where he served as anchor and managing editor of th… [+11109 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iPhone in Canada"
+    },
+    "author": "Austin Blake",
+    "title": "Apple Vision Pro Launch Date Set for February, Says Report",
+    "description": "Apple is intensifying production efforts for its new Vision Pro mixed-reality headset, with an anticipated launch set for early February, according to sources familiar with the matter speaking with Bloomberg’s Mark Gurman. The manufacturing process, primarily…",
+    "url": "https://www.iphoneincanada.ca/2023/12/21/apple-vision-pro-launch-date-february/",
+    "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2017/09/iic-logo-1.svg",
+    "publishedAt": "2023-12-22T00:06:40Z",
+    "content": "Apple is intensifying production efforts for its new Vision Pro mixed-reality headset, with an anticipated launch set for early February, according to sources familiar with the matter speaking withBl… [+2552 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Daemonology.net"
+    },
+    "author": null,
+    "title": "Daily Hacker News for 2023-12-21",
+    "description": "The 10 highest-rated articles on\nHacker News\non December 21, 2023 which have not appeared on any previous\nHacker News Daily\nare:\n<ul>\n<li>\nAll code is technical debt\n(comments)\n</li>\n<li>\nWireflow – free, online, open source tool for creating user-flow protot…",
+    "url": "https://www.daemonology.net/hn-daily/2023-12-21.html",
+    "urlToImage": null,
+    "publishedAt": "2023-12-22T00:00:00Z",
+    "content": "The 10 highest-rated articles on\r\nHacker News\r\non December 21, 2023 which have not appeared on any previous\r\nHacker News Daily\r\nare:"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "TweakTown"
+    },
+    "author": "Kosta Andreadis",
+    "title": "Windows Mixed Reality is no more, as Microsoft adds it to the OS's 'deprecated features' list",
+    "description": "Windows Mixed Reality has been added to the list of features that are going to be removed from Windows, which means there won't be a Microsoft HoloLens 3. Continue reading at TweakTown >",
+    "url": "https://www.tweaktown.com/news/95112/windows-mixed-reality-is-no-more-as-microsoft-adds-it-to-the-oss-deprecated-features-list/index.html",
+    "urlToImage": "https://static.tweaktown.com/news/9/5/95112_01_windows-mixed-reality-added-to-the-deprecated-features-list-for-operating-system_full.jpg",
+    "publishedAt": "2023-12-22T02:34:03Z",
+    "content": "Windows Mixed Reality, which debuted with the Microsoft HoloLens device, was set to be a big thing back in 2017 - with companies like Acer, ASUS, Dell, HP, and Lenovo all set to make devices that wou… [+1588 chars]"
+    },
+    {
+    "source": {
+    "id": "cbc-news",
+    "name": "CBC News"
+    },
+    "author": null,
+    "title": "'If it's too good to be true, it likely is,' police warn amid reports of Taylor Swift concert ticket scam",
+    "description": "Mounties in North Vancouver are warning the public to watch out for online scammers pretending to sell tickets to upcoming Taylor Swift concerts.",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/swift-tickets-scam-1.7067340",
+    "urlToImage": "https://i.cbc.ca/1.7033056.1703204090!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/argentina-taylor-swift.jpg",
+    "publishedAt": "2023-12-22T01:02:34Z",
+    "content": "Mounties in North Vancouver are warning the public to watch out for online scammers pretending to sell tickets to upcoming Taylor Swift concerts. \r\nIn a Thursday release, North Vancouver RCMP wrote p… [+1492 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Cnbeta.com.tw"
+    },
+    "author": "ytzong",
+    "title": "苹果上线Apple Music冬日活动 新用户可以免费领取3个月订阅会员",
+    "description": "苹果最近为全球用户推出Apple Music冬日活动，所有新用户均可免费领取三个月的Apple Music订阅会员。由于Apple Music没有免费版所以日常使用必须开通订阅，有兴趣的用户可以参与活动领取三个月会员试试。\r\n\n本次活动截止至 2024年1月8日，在此日期前均可参与活动免费领取会员，领取后从领取日起三个月内有效。以下是领取方法：Apple Music 客户端软件目前已支持以下操作系统：iOS、iPadOS、macOS、Windows 10/11、Android如果在手机上参与活动则需要先安装客户端…",
+    "url": "https://www.cnbeta.com.tw/articles/tech/1406213.htm",
+    "urlToImage": "https://static.cnbetacdn.com/article/2023/1222/915cdbc9fad995b.png",
+    "publishedAt": "2023-12-22T03:35:15Z",
+    "content": "202418\r\nApple Music iOSiPadOSmacOSWindows 10/11Android\r\nPC1Apple MusicPC\r\nhttps://offers.applemusic.apple/zh-cn/three-month-offer"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Arigato-ipod.com"
+    },
+    "author": "Ygn",
+    "title": "【ニュース】Apple TV+でドラマ「モナーク：レガシー・オブ・モンスターズ」第7話と、「フォー・オール・マンカインド」シーズン4第7話の配信開始",
+    "description": "Apple TV+で、Apple Originals 2作品の最新エピソードが配信開始されています。 モナーク：レガシー・オブ・モンスターズ エピソード7『本物のメイ は どうぞご起立を』47分 次回（12月29日配信）...\nThe post 【ニュース】Apple TV+でドラマ「モナーク：レガシー・オブ・モンスターズ」第7話と、「フォー・オール・マンカインド」シーズン4第7話の配信開始 first appeared on アイアリ.",
+    "url": "https://arigato-ipod.com/2023/12/apple-tv-plus-new-episode-231222.html",
+    "urlToImage": "https://arigato-ipod.com/wp/wp-content/uploads/2023/12/231222appletvplusnewep.jpg",
+    "publishedAt": "2023-12-22T02:02:31Z",
+    "content": "Apple TV+で、Apple Originals 2作品の最新エピソードが配信開始されています。\n\nモナーク：レガシー・オブ・モンスターズ\n\nエピソード7『本物のメイ は どうぞご起立を』47分\n次回（12月29日配信）：エピソード8『生得権』42分\nフォー・オール・マンカインド\n\nシーズン4・エピソード7『一線を越える』42分\n次回（12月29日配信）：シーズン4・エピソード8『レガシー』… [+189 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Arigato-ipod.com"
+    },
+    "author": "Ygn",
+    "title": "【Apple Books 今週の100円ブック】三橋健「かぐや姫の罪 誰も知らない『竹取物語』の真実」を100円で特価販売",
+    "description": "Apple Books Storeで「今週の100円ブック」として、三橋健著「かぐや姫の罪 誰も知らない『竹取物語』の真実」が特価販売されています。 神道学者の著者による、竹取物語の考察本です。 12月28日（木）までの...\nThe post 【Apple Books 今週の100円ブック】三橋健「かぐや姫の罪 誰も知らない『竹取物語』の真実」を100円で特価販売 first appeared on アイアリ.",
+    "url": "https://arigato-ipod.com/2023/12/apple-books-store-100-yen-book-of-the-week-231222.html",
+    "urlToImage": "https://arigato-ipod.com/wp/wp-content/uploads/2023/12/231222bookoftheweek.jpg",
+    "publishedAt": "2023-12-22T03:01:00Z",
+    "content": "Apple Books Storeで「今週の100円ブック」として、三橋健著「かぐや姫の罪 誰も知らない『竹取物語』の真実」が特価販売されています。\n神道学者の著者による、竹取物語の考察本です。\n\n\n12月28日（木）までの期間限定で、100円で購入できます。\nダウンロード：Apple Booksでかぐや姫の罪 誰も知らない『竹取物語』の真実を読む\n\nニュース解説\n「今週の100円ブック」は、A… [+210 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Arigato-ipod.com"
+    },
+    "author": "Ygn",
+    "title": "【ニュース】Apple TV+でアニメ「サゴミニフレンズ」第13話・大みそか向け特別エピソードの配信開始",
+    "description": "Apple TV+で子供向けアニメシリーズ「サゴミニフレンズ」の第13話が配信開始されています。 大みそか向けの特別エピソードです。 エピソード13『大みそかの夜』23分 ハービーが夜中まで起きていたいと願っていると、１...\nThe post 【ニュース】Apple TV+でアニメ「サゴミニフレンズ」第13話・大みそか向け特別エピソードの配信開始 first appeared on アイアリ.",
+    "url": "https://arigato-ipod.com/2023/12/apple-tv-plus-sago-mini-friends-ep13.html",
+    "urlToImage": "https://arigato-ipod.com/wp/wp-content/uploads/2023/12/231222sagominifriendsep13.jpg",
+    "publishedAt": "2023-12-22T02:13:36Z",
+    "content": "Apple TV+で子供向けアニメシリーズ「サゴミニフレンズ」の第13話が配信開始されています。\n大みそか向けの特別エピソードです。\n\n\nエピソード13『大みそかの夜』23分\n\nハービーが夜中まで起きていたいと願っていると、１匹のホタルが飛んで来て救いの手を差し伸べます。その後、ホタルはハービーの仲間たちのためにガラクタ集めをスタートさせます。\r\n\n\n\nニュース解説\n「サゴミニフレンズ」は幼児向… [+224 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Prtimes.jp"
+    },
+    "author": null,
+    "title": "スウェーデン発のApple Watchケース ブランド「ゴールデンコンセプト」から、先日発売された「SPORT III EDITION」に新色が追加。",
+    "description": "[株式会社PRINCIPE prive]\nスウェーデン発のアップルウオッチケースブランド「ゴールデンコンセプト」から、先日発売された最新コレクション「SPORTIII EDITION」から早くも新色が発売。新たに追加されたのは、ブラック、オレンジ、ミント...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000529.000016079.html",
+    "urlToImage": "https://prcdn.freetls.fastly.net/release_image/16079/529/16079-529-42bd925daec418d2994b199224231fae-1400x1920.png?format=jpeg&auto=webp&fit=bounds&width=1200&height=630",
+    "publishedAt": "2023-12-22T00:30:00Z",
+    "content": "SPORT III EDITIONBLACKSPORTY MINTSUNSET ORANGE3\r\nSPORTY MINTSUNSET ORANGE\r\n2020SPORT EDITION \r\nTPO\r\nSUNSET ORANGE\r\nSPORTY MINT\r\nSP45 - SPORTY MINT / SUNSET ORANGE132,000\r\n 9/8/7 - 41/45MM 316L45 mm x… [+321 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Prtimes.jp"
+    },
+    "author": null,
+    "title": "Amazon Music、BAD HOPの10年間の集大成となる東京ドーム公演「BAD HOP THE FINAL at TOKYO DOME」に向けて各種オリジナルコンテンツを独占配信予定",
+    "description": "[アマゾンジャパン合同会社]\n[画像1: https://prtimes.jp/i/4612/1808/resize/d4612-1808-3e84ca051d3506372b16-0.jpg ]\n\nAmazon Musicは、2024年2月19日（月）開催の東京ドーム公演「BAD HOP THE FINAL at TOKYO DOME」 をもって解散するBAD...",
+    "url": "https://prtimes.jp/main/html/rd/p/000001808.000004612.html",
+    "urlToImage": "https://prcdn.freetls.fastly.net/release_image/4612/1808/4612-1808-3c77f9f62548316d7360a494f57f933e-1920x1077.jpg?format=jpeg&auto=webp&fit=bounds&width=1200&height=630",
+    "publishedAt": "2023-12-22T03:40:02Z",
+    "content": "Amazon Music2024219BAD HOP THE FINAL at TOKYO DOME BAD HOP10BAD HOP1Champion Road Band VersionAmazon Music OriginalAmazon Music\r\nBAD HOP T-Pablow YZERRTiji JojoBenjazzyYellow PatoG-k.i.dVingoBark 8MC… [+1521 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Droidsans.com"
+    },
+    "author": "MelonnPang",
+    "title": "Apple ไม่รับซ่อม หรือเปลี่ยน Apple Watch 6 และรุ่นใหม่ที่หมดประกัน หลังถูกสั่งห้ามนำเข้าใน US",
+    "description": "หลังจากที่เจอศึกหนักโดนสั่งแบนห้ามนำเข้า และระงับการขาย Apple Watch Series 9 และ Watch Ultra 2 ในสหรัฐฯ เนื่องจากละเมิดสิทธิบัตรเซนเซอร์ตรวจวัดออกซิเจนในเลือด ล่าสุดคำสั่งห้ามนำเข้านี้ดูเหมือนจะส่งผลกระทบไปยัง Apple Watch Series 6 และรุ่นอื่น ๆ ที่มีเซนเซอร์น…",
+    "url": "https://droidsans.com/apple-cannot-repair-older-apple-watch-during-ban/",
+    "urlToImage": "https://images.droidsans.com/wp-content/uploads/2023/12/Apple-Watch-Series-9.png",
+    "publishedAt": "2023-12-22T03:28:37Z",
+    "content": "Apple Watch Series 9 Watch Ultra 2 Apple Watch Series 6 \r\nAirpods Apple Watch Apple \r\n Apple Apple Watch 6 Watch Ultra Apple \r\nApple Watch Apple Apple Care+ \r\n Masimo Apple 25 2023 \r\nApple Masimo App… [+88 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Dealnews.com"
+    },
+    "author": null,
+    "title": "$75 Apple Gift Card w/ $10 Walmart Gift Card for $75 + email delivery",
+    "description": "Get $10 to spend at Walmart with your Apple Gift Card purchase. Buy Now at Walmart",
+    "url": "https://www.dealnews.com/75-Apple-Gift-Card-w-10-Walmart-Gift-Card-for-75-email-delivery/21468187.html",
+    "urlToImage": "https://c.dlnws.com/image/upload/f_auto,t_maximum,q_auto/content/hmsvhcfqjj4hsg2a39vq.jpg",
+    "publishedAt": "2023-12-22T01:56:29Z",
+    "content": "moreSave on restaurants, movies, groceries, video games, and entertainment, including the pictured Red Lobster $25 Gift Card 4-Pack for $79.99. Shop Now at Costco"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Dark Horizons"
+    },
+    "author": "Garth Franklin",
+    "title": "Sony Sets “Wolfs,” “Artemis” Release Dates",
+    "description": "Sony Pictures has dated two Apple Original Films productions that it is set to release theatrically next year. The dates follow in the wake of Sony and Apple’s collaboration on Ridley Scott’s historical epic “Napoleon” which opened last month and so far has t…",
+    "url": "https://www.darkhorizons.com/sony-sets-wolfs-artemis-release-dates/",
+    "urlToImage": "https://cdndark.darkhorizons.com/wp-content/uploads/2023/12/sony-sets-wolfs-artemis-release-dates.jpg",
+    "publishedAt": "2023-12-22T02:33:51Z",
+    "content": "Sony Pictures has dated two Apple Original Films productions that it is set to release theatrically next year.\r\nThe dates follow in the wake of Sony and Apple’s collaboration on Ridley Scott’s histor… [+953 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Newmobilelife.com"
+    },
+    "author": "Alex",
+    "title": "美國 Apple Online Store 已暫停銷售 Apple Watch Series 9 和 Ultra 2",
+    "description": "<!-- wp:paragraph {\"canvasClassName\":\"cnvs-block-core-paragraph-1703205327265\"} -->\n蘋果已在美國 Apple Online Store 中暫停銷售 Apple Watch Series 9 和 Apple Watch Ultra 2。這一措施是為了應對即將生效的進口禁令。根據國際貿易委員會（ITC）對醫療技術公司 Masimo 提起的專利侵權案件的裁決，該禁令將於 12 月 25 日全面生效。\n<!-- /wp:paragraph…",
+    "url": "https://www.newmobilelife.com/2023/12/22/apple-stop-selling-apple-watch-s9-ultra2-in-us/",
+    "urlToImage": "https://static.newmobilelife.com/wp-content/uploads/2023/09/applewatch-s9-1024x646.jpg",
+    "publishedAt": "2023-12-22T00:41:54Z",
+    "content": "<!-- wp:paragraph {\"canvasClassName\":\"cnvs-block-core-paragraph-1703205327265\"} -->\n蘋果已在美國 Apple Online Store 中暫停銷售 Apple Watch Series 9 和 Apple Watch Ultra 2。這一措施是為了應對即將生效的進口禁令。根據國際貿易委員會（ITC）對醫療技術公司… [+1869 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "SiliconANGLE News"
+    },
+    "author": "Mike Wheatley",
+    "title": "Apple suspends sales of Watch Series 9 and Ultra 2 models as export ban looms",
+    "description": "Apple Inc. has pulled the plug on sales of its latest Apple Watch Series 9 and Apple Watch Ultra 2 models via its online store in the U.S., and it will soon stop selling them at its physical stores too. The decision to suspend sales of the products comes ahea…",
+    "url": "https://siliconangle.com/2023/12/21/apple-suspends-sales-watch-series-9-ultra-2-models-export-ban-looms/",
+    "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Apple-Watch-Ultra-2-side-button-Digital-Crown-230912_Full-Bleed-Image.jpg.xlarge_2x.jpg",
+    "publishedAt": "2023-12-22T01:46:35Z",
+    "content": "Apple Inc. has pulled the plug on sales of its latest Apple Watch Series 9 and Apple Watch Ultra 2 models via its online store in the U.S., and it will soon stop selling them at its physical stores t… [+3283 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Wealthofgeeks.com"
+    },
+    "author": "Michael Dinich",
+    "title": "How To Sell Gift Cards Online Instantly (Fast Cash $$$)",
+    "description": "We love earning or receiving gift cards! However, our favorite apps to earn gift cards often may not offer the card we want. For example, maybe we won an Amazon card but need a Lowes card. Also, Let's not forget that sometimes you need cash to pay bills or in…",
+    "url": "https://wealthofgeeks.com/sell-gift-cards-online/",
+    "urlToImage": "https://wealthofgeeks.com/wp-content/uploads/2021/12/shutterstock_2088713587-1024x683.jpg",
+    "publishedAt": "2023-12-22T02:10:10Z",
+    "content": "We love earning or receiving gift cards!\r\nHowever, our favorite apps to earn gift cards often may not offer the card we want. For example, maybe we won an Amazon card but need a Lowes card. Also, Let… [+11218 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNA"
+    },
+    "author": null,
+    "title": "Hong Kong court rejects bid to drop sedition charge against Jimmy Lai",
+    "description": "HONG KONG: A Hong Kong court on Friday (Dec 22) rejected a bid by the legal team for pro-democracy tycoon Jimmy Lai to have a sedition charge against him dropped, in a closely watched national security trial. Lai, 76, the founder of the now-shuttered pro-demo…",
+    "url": "https://www.channelnewsasia.com/asia/hong-kong-court-rejects-bid-drop-sedition-charge-against-jimmy-lai-4006311",
+    "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--PF9O3pur--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-12-22t032601z_1_lynxmpejbl01t_rtroptp_3_hongkong-security-jimmy-lai.jpg?itok=V0yZlTaL",
+    "publishedAt": "2023-12-22T03:48:54Z",
+    "content": "HONG KONG: A Hong Kong court on Friday (Dec 22) rejected a bid by the legal team for pro-democracy tycoon Jimmy Lai to have a sedition charge against him dropped, in a closely watched national securi… [+384 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Yahoo Sports Videos",
+    "title": "With Florida State nearing ACC divorce, what’s next? | College Football Enquirer",
+    "description": "Yahoo Sports’ Dan Wetzel and Ross Dellenger discuss the school's next steps towards separation from the Atlantic Coast Conference and what the likely goals are for the university. Hear the full conversation on the “College Football Enquirer” podcast - and sub…",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8b1bcfa8-0f25-4fdf-9c67-a51d9cc31f84",
+    "urlToImage": null,
+    "publishedAt": "2023-12-22T00:18:20Z",
+    "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 242 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Thegatewaypundit.com"
+    },
+    "author": "Mike LaChance",
+    "title": "NYC Mayor Eric Adams Accuses Fellow Democrats on City Council of Following a ‘Far-Left Agenda’ on Crime",
+    "description": "New York City Mayor Eric Adams recently accused his fellow Democrats on the city council of pursuing a far left agenda.\nThe post NYC Mayor Eric Adams Accuses Fellow Democrats on City Council of Following a ‘Far-Left Agenda’ on Crime appeared first on The Gate…",
+    "url": "https://www.thegatewaypundit.com/2023/12/nyc-mayor-eric-adams-accuses-fellow-democrats-city/",
+    "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/nyc-mayor-eric-adams-1200x630.png",
+    "publishedAt": "2023-12-22T04:00:50Z",
+    "content": "New York City Mayor Eric Adams recently accused his fellow Democrats on the city council of pursuing a far left agenda.\r\nThe mayor is caught between a rock and a hard place. He was elected as a pro-p… [+2208 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Stephen Yang, Reuven Fenton, David Propper",
+    "title": "Pro-Palestinian protesters shout ‘Long live Hamas’ at Jewish couple during dueling protests in NYC",
+    "description": "Multiple organizations came together to condemn Israel, including NYC's Democratic Socialist of America chapter, which previously faced heat for promoting a Pro-Palestine rally the day after the Oct. 7 terror attack.",
+    "url": "https://nypost.com/2023/12/21/metro/pro-palestinian-protesters-shout-long-live-hamas-at-jewish-couple-in-nyc/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/12/protesters-chant-hundreds-gather-nypl-74022267.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2023-12-22T02:59:41Z",
+    "content": "Two pro-Palestinian protesters shouted Long live Hamas in the faces of a Jewish couple during dueling rallies that broke out in front of the New York Public Library Thursday night.\r\nHundreds of pro-P… [+2874 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "TechNode"
+    },
+    "author": "Steven Lee",
+    "title": "Apple Watch 禁令美国落地，苹果通知过保机型无法维修",
+    "description": "美国国际贸易委员会（ITC）的 Apple Watch 销售禁令正式落地，苹果官网目前已经停售 Apple Watch Series 9 和 Apple Watch Ultra 2。",
+    "url": "https://cn.technode.com/post/2023-12-22/apple-watch-ban-u-s/",
+    "urlToImage": "https://cn.technode.com/wp-content/blogs.dir/18/files/2023/09/Apple-Watch-Ultra-2-side-button-Digital-Crown-230912.jpg",
+    "publishedAt": "2023-12-22T01:50:53Z",
+    "content": "ITC Apple Watch Apple Watch Series 9 Apple Watch Ultra 2\r\ncurrently unavailable\r\n Apple Watch Series 9 Apple Watch Ultra 2 \r\n 12 24 TargetWalmartBest Buy Apple Watch Apple Watch SE\r\n Apple Watch \r\n C… [+109 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "thewrap.com",
+    "title": "Sony Adds 2 Apple-Produced Films to 2024 Release Slate",
+    "description": "Sony and Columbia Pictures will continue their partnership with Apple Original Films in 2024, adding two films produced by the Silicon Valley streamer to their 2024 slate. Sony/Columbia will release an untitled film set during the 1960s space race starring Ch…",
+    "url": "https://biztoc.com/x/ae49c0b206d383b2",
+    "urlToImage": "https://c.biztoc.com/p/ae49c0b206d383b2/s.webp",
+    "publishedAt": "2023-12-22T01:06:08Z",
+    "content": "Sony and Columbia Pictures will continue their partnership with Apple Original Films in 2024, adding two films produced by the Silicon Valley streamer to their 2024 slate. Sony/Columbia will release … [+327 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "finance.yahoo.com",
+    "title": "Warren Buffett has racked up at least an 8,000% return on See's Candies. Here are 5 reasons why he calls the little chocolate maker his 'dream business.'",
+    "description": "None Warren Buffett's \"dream business\" is See's Candies, a boxed-chocolate company he bought in 1972. • None The investor paid $25 million to purchase the retailer, and has made an over 8,000% return since. • None Buffett has hailed See's profits, minimal cap…",
+    "url": "https://biztoc.com/x/5e84a789676875a7",
+    "urlToImage": "https://c.biztoc.com/p/5e84a789676875a7/s.webp",
+    "publishedAt": "2023-12-22T04:02:05Z",
+    "content": "None Warren Buffett's \"dream business\" is See's Candies, a boxed-chocolate company he bought in 1972.None The investor paid $25 million to purchase the retailer, and has made an over 8,000% return si… [+301 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "investors.com",
+    "title": "Dow Jones Futures Fall As Nike Dives; Apple Leads Six Stocks To Watch With Inflation Data Due",
+    "description": "Dow Jones futures fell slightly overnight, while S&P 500 futures and Nasdaq futures edged lower. Nike (NKE) plunged on mixed earnings late. The Fed's favorite inflation gauge headlines Friday economic data. The stock market rally rebounded Thursday, with the …",
+    "url": "https://biztoc.com/x/0f38fa87b750fc2f",
+    "urlToImage": "https://c.biztoc.com/p/0f38fa87b750fc2f/s.webp",
+    "publishedAt": "2023-12-22T01:56:05Z",
+    "content": "Dow Jones futures fell slightly overnight, while S&amp;P 500 futures and Nasdaq futures edged lower. Nike (NKE) plunged on mixed earnings late. The Fed's favorite inflation gauge headlines Friday eco… [+273 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "variety.com",
+    "title": "Sony Dates Scarlett Johansson-Channing Tatum Film, George Clooney and Brad Pitt’s ‘Wolfs’ for 2024",
+    "description": "Sony has dated an untitled Apple Original Films production starring Scarlett Johansson and Channing Tatum for July 12. Formerly known as “Project Artemis,” it’s set to screen in premium large formats with Columbia Pictures distributing. Directed by Greg Berla…",
+    "url": "https://biztoc.com/x/ffd22c5b91af01ce",
+    "urlToImage": "https://c.biztoc.com/p/ffd22c5b91af01ce/s.webp",
+    "publishedAt": "2023-12-22T01:08:08Z",
+    "content": "Sony has dated an untitled Apple Original Films production starring Scarlett Johansson and Channing Tatum for July 12. Formerly known as Project Artemis, its set to screen in premium large formats wi… [+323 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Kw.be"
+    },
+    "author": "Philippe Verhaest",
+    "title": "“Uit het oog is niét uit het hart. Dat kan niet”: beste (koers)vrienden Yves Lampaert en Tim Declercq zijn niet langer kamergenoten",
+    "description": "Járenlang hebben ze op en naast de fiets lief en leed met elkaar gedeeld, maar nu moeten Yves Lampaert en Tim Declercq afscheid van elkaar nemen. Doordat die laatste naar Lidl-Trek verkast, moet zijn bloedbroeder een nieuwe kamergenoot zoeken. Hoog tijd om ‘E…",
+    "url": "https://kw.be/sport/wielrennen/uit-het-oog-is-niet-uit-het-hart-dat-kan-niet-beste-koersvrienden-yves-lampaert-en-tim-declercq-zijn-niet-langer-kamergenoten/",
+    "urlToImage": "https://img.static-rmg.be/a/view/q75/w1600/h836/5581898/b823586116z-1-20231221091323-000gnj46d4j6-1-0-jpg.jpg",
+    "publishedAt": "2023-12-22T04:00:00Z",
+    "content": "Járenlang hebben ze op en naast de fiets lief en leed met elkaar gedeeld, maar nu moeten Yves Lampaert en Tim Declercq afscheid van elkaar nemen. Doordat die laatste naar Lidl-Trek verkast, moet zijn… [+11594 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "GlobeNewswire"
+    },
+    "author": "Brainy Insights Pvt. Ltd.",
+    "title": "Over The Top (OTT) services Market Size Projected to Surge $ 1618.22 Billion Growth by 2032, Exhibit a CAGR of 15%",
+    "description": "The global over-the-top (OTT) services market size is anticipated to grow from USD 400 billion to USD 1618.22 billion in 10 years. The market will experience rapid growth due to the increasing number of OTT platform providers during the forecast period. The g…",
+    "url": "https://www.globenewswire.com/news-release/2023/12/22/2800402/0/en/Over-The-Top-OTT-services-Market-Size-Projected-to-Surge-1618-22-Billion-Growth-by-2032-Exhibit-a-CAGR-of-15.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/e0ed2f75-5061-4c4a-a30b-65427e5cc0f4",
+    "publishedAt": "2023-12-22T03:00:00Z",
+    "content": "Newark, Dec. 21, 2023 (GLOBE NEWSWIRE) -- The Brainy Insights estimates that the USD 400 billion in 2022 global over-the-top (OTT) services market will reach USD 1618.22 billion in 2032. via-the-top … [+9805 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Olhardigital.com.br"
+    },
+    "author": "Matheus Chaves",
+    "title": "Tablet da Samsung vale a pena?",
+    "description": "Está pensando em adquirir um tablet da Samsung? Veja alguns aspectos do dispositivo antes de comprá-lo\nO post Tablet da Samsung vale a pena? apareceu primeiro em Olhar Digital.",
+    "url": "https://olhardigital.com.br/2023/12/21/reviews/tablet-da-samsung-vale-a-pena/",
+    "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2023/09/desenhando-no-tablet-samsung-com-s-pen.png",
+    "publishedAt": "2023-12-22T00:20:00Z",
+    "content": "O tablet da Samsung Ã© um aparelho que oferece excelente aplicabilidade e qualidade, proporcionando assim, um bom desempenho. Tudo isso faz com que o item esteja entre as melhores opÃ§Ãµes do mercado… [+2144 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "1970-01-01T00:00:00Z",
+    "content": "[Removed]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ig.com.br"
+    },
+    "author": "Canaltech, Canaltech",
+    "title": "Linha iPhone 16 pode ter processador A18 em todos os modelos",
+    "description": "Supostos códigos do iOS 18 obtidos pelo site MacRumors indicam que a linha iPhone 16 deve mudar a estratégia, usando o inédito Apple A18 em todos os modelos",
+    "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2023-12-21/linha-iphone-16-pode-ter-processador-a18-em-todos-os-modelos.html",
+    "urlToImage": "https://i0.statig.com.br/bancodeimagens/al/tq/14/altq14mfkhey408xp0939s87y.jpg",
+    "publishedAt": "2023-12-22T00:15:06Z",
+    "content": "Apesar de os novos smartphones da série iPhone 15\r\nterem sido anunciados em setembro desse ano, já há diversos rumores relacionados à série iPhone 16\r\nsendo compartilhados. O mais recente deles, supo… [+1876 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New Zealand Herald"
+    },
+    "author": null,
+    "title": "NZ market closes for Christmas on flat note - market close",
+    "description": "Synlait Milk and Move Logistics both gave gloomy updates.",
+    "url": "https://www.nzherald.co.nz/business/nz-market-closes-for-christmas-on-flat-note-market-close/VLSWKYPOLZDOVGRHWFC3X5GRKE/",
+    "urlToImage": "https://www.nzherald.co.nz/resizer/H1Lz_Zi_LhJnZUEuFd77gEpyaH8=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/KDTFYT67GBAZVB3YSPBF2U3SSQ.jpg",
+    "publishedAt": "2023-12-22T03:53:00Z",
+    "content": "Synlait Milk provided a downbeat update to the market. Photo / Michael CraigThe New Zealand sharemarket closed for Christmas on a flat note with Synlait Milk and Move Logistics providing gloomy tradi… [+3856 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": null,
+    "title": "APPLE TREE 株式会社連続炭素繊維強化部品を造形可能な次世代産業用複合材3Dプリンター「FX10」の発売を開始しました。",
+    "description": "革新的な熱可塑性材料と連続炭素繊維の組み合わせで、強さと精度を兼ね備えた製品を提供。広大な造形空間で大型パーツも製造可能、あなたのビジョンを確かな技術で形にします。[画像1: https://prcdn.freetls.fastly.net/release_image/30909/71/30909-71-449d92c2e1ee45a6e382e9a36ffe1b4f-1200x630.jpg?width=536&...",
+    "url": "https://japan.cnet.com/release/30928773/",
+    "urlToImage": "https://japan.cnet.com/media/c/2012/images/logo/logo_ogp_1200.png",
+    "publishedAt": "2023-12-22T01:00:00Z",
+    "content": "[1: ]\r\nAPPLE TREEMarkforged3DFX10Markforged X7FX10 FX10\r\nFX10(TM)\r\nMarkforged\r\n[2: ]\r\n2\r\n[3: ]\r\n4\r\n[4: ]\r\n71\r\n[5: ]\r\n60°C\r\nFX10\r\n[6: ]APPLE TREE\r\n541-0053 4-3-9 1806-6710-9061105-0012 2-9-4VORTIII903… [+67 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": null,
+    "title": "illuniIlluniがMoiiのグローバル発表でバーチャルな社会的交流の新時代を開く",
+    "description": "カスタマイズ可能なアバターを通じて、気の合う仲間と気軽にバーチャル接続できるプラットフォーム【ソウル（韓国）2023年12月21日PR Newswire＝共同通信JBN】AIと複合現実のスタートアップ企業illuni https://www.illuni.com/は、アバターベースのバーチャル社会的交流プラットフォームMoii https://www.moii.net/のグ...",
+    "url": "https://japan.cnet.com/release/30928711/",
+    "urlToImage": "https://japan.cnet.com/media/c/2012/images/logo/logo_ogp_1200.png",
+    "publishedAt": "2023-12-22T00:42:00Z",
+    "content": "20231221PR NewswireJBNAIilluni Moii 3DMoii\r\nMoii\r\nGoogle Play: \r\nApple Store: \r\niluniByung-Hwa ParkCEOMoii30Moii\r\nMoii\r\nMoii3D\r\nMoii\r\n11Moii\r\nMoii\r\nilluni\r\nAIilluniStoryself Moii\r\nPR Newswire Asia Lt… [+50 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": null,
+    "title": "株式会社iHistoryスタートアップiHistory Inc.が提供する オンライン年表作成デジタルガジェット「Biography+」に「あの年、よく聴いていた音楽」機能を新規追加！",
+    "description": "思い出と一緒によみがえる「音楽」を、人生年表に登録しよう！人生を価値化して楽しむスタートアップ 株式会社iHistory(本社：東京都港区、CEO:中野一誠、以下、iHistory Inc.)は、本日2023年12月22日に、オンライン年表作成デジタルガジェット「Biography+」に「あの年、よく聴いていた音楽」機能を新規追加したことを...",
+    "url": "https://japan.cnet.com/release/30928840/",
+    "urlToImage": "https://japan.cnet.com/media/c/2012/images/logo/logo_ogp_1200.png",
+    "publishedAt": "2023-12-22T01:10:00Z",
+    "content": "iHistory(CEO:iHistory Inc.)20231222Biography+\r\n[1: ]\r\nBiography+\r\nBiography+\r\nBiography+Apple MusicSpotifyAmazon MusicYouTube MusicURL\r\nBiography+\r\nBiography+[2: ]\r\nBiography+URLQR\r\n[3: ]\r\n3\r\n/////\r\n… [+197 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "Holger Zschäpitz, Philipp Vetter",
+    "title": "Die Zukunft der glorreichen Sieben und ein furioses Weihnachtsfinale",
+    "description": "In der heutigen Folge „Alles auf Aktien“ sprechen die Finanzjournalisten Philipp Vetter und Holger Zschäpitz über schwache Zahlen bei Nike, einen Ausverkauf bei Delivery Hero und das Comeback-Kid am Kryptomarkt.",
+    "url": "https://www.welt.de/podcasts/alles-auf-aktien/article249189594/Boersen-Podcast-Apple-Nvidia-Tesla-und-Co-Die-Zukunft-der-glorreichen-Sieben.html",
+    "urlToImage": "https://img.welt.de/img/podcasts/alles-auf-aktien/mobile244546294/4231352447-ci16x9-w1200/vetter-zschae-DWO-Podcast-Teaser-AllesAufAktien-mit-2zu3-vetter-zschaepitz-aw.jpg",
+    "publishedAt": "2023-12-22T04:06:22Z",
+    "content": "Außerdem geht es um Micron Technologies, Solana, Bitcoin, Marathon Digital, BASF, Harbor Energy, Apple, Amazon, Alphabet, Meta, Microsoft, Nvidia, Tesla, AMD, Intel, Activision Blizzard.\r\nHier die ak… [+713 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Adorocinema.com"
+    },
+    "author": "Adoro Cinema",
+    "title": "\"Uma adaptação mais violenta\": Novos filmes de Os Três Mosqueteiros atualizam clássica história no cinema (Entrevista Exclusiva)",
+    "description": "Entrevistamos o diretor Martin Bourboulon e os atores Eva Green, Vincent Cassel e Louis Garrel sobre as novas adaptações de Os Três Mosqueteiros.",
+    "url": "https://www.adorocinema.com/noticias/filmes/noticia-1000057362/",
+    "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/22/1620678275-b8d4aa6c26838f625edf21b8a02c5c0e.jpg",
+    "publishedAt": "2023-12-22T00:02:47Z",
+    "content": "Os Três Mosqueteiros é uma das histórias mais clássicas da literatura mundial e já recebeu diversas adaptações para o cinema. Este ano foi lançada nas telonas uma nova versão da obra dividida em duas… [+2000 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "PBS"
+    },
+    "author": "Michelle Chapman, Associated Press",
+    "title": "Wells Fargo workers at New Mexico branch vote to unionize, a first in modern era for a major bank",
+    "description": "The vote comes after a series of extraordinary gains for unions in the U.S., with organized labor sealing huge contracts in industries that have historically had strong labor representation, and inroads in those that have not.",
+    "url": "https://www.pbs.org/newshour/politics/wells-fargo-workers-at-new-mexico-branch-vote-to-unionize-a-first-in-modern-era-for-a-major-bank",
+    "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2016/09/RTSHA96-1024x673.jpg",
+    "publishedAt": "2023-12-22T01:59:33Z",
+    "content": "Employees at a Wells Fargo bank in New Mexico have voted to unionize, the first time that workers at a major U.S. bank have attempted to organize in the modern era.\r\nThe vote comes after a series of … [+2384 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Livedoor.com"
+    },
+    "author": "GIGAZINE（ギガジン）",
+    "title": "ついにApple Watch Series 9とUltra 2がアメリカで公式販売停止、旧モデルの修理も不可能に",
+    "description": "Appleがアメリカの公式オンラインストアでApple Watch Ultra 2とApple Watch Series 9の販売を停止しました。さらに、Apple Watch Series 6以降の保証期間切れ製品の交換修理が不可能になったことも報じられています。Watch - Applehttps://www.apple.com/watch/Apple Watch Series 9, Ultra 2 No Longer Sold Online; Older Models Can't Be Fixed - Bl…",
+    "url": "https://news.livedoor.com/article/detail/25577066/",
+    "urlToImage": "https://image.news.livedoor.com/newsimage/stf/a/2/a20e5_88_98a004e76f7e23d8bf5ad20aa8296dc8.png",
+    "publishedAt": "2023-12-22T01:57:00Z",
+    "content": "AppleApple Watch Ultra 2Apple Watch Series 9Apple Watch Series 6\r\nWatch - Apple\r\nhttps://www.apple.com/watch/\r\nApple Watch Series 9, Ultra 2 No Longer Sold Online; Older Models Can't Be Fixed - Bloom… [+666 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Livedoor.com"
+    },
+    "author": "GIGAZINE（ギガジン）",
+    "title": "Appleは大規模言語モデルをiPhone上でローカルに動作させることを目指している",
+    "description": "Appleの研究者が「LLM in a flash: Efficient Large Language Model Inference with Limited Memory」と題した論文をプレプリントサーバーのarXivに公開しました。この論文では「メモリが限られたデバイス上で大規模言語モデル(LLM)の推論を効果的に行う道を開く解決策」、すなわちiPhoneなどのデバイス上でLLMを動作させるための技術が示されており、Appleは将来的にiPhone上でLLMを動作させることを目指していると考えられます。[2…",
+    "url": "https://news.livedoor.com/article/detail/25577438/",
+    "urlToImage": "https://image.news.livedoor.com/newsimage/stf/b/7/b7e62_88_d4c50584a14d039d1467e4f40c8b8628.jpg",
+    "publishedAt": "2023-12-22T02:35:00Z",
+    "content": "AppleLLM in a flash: Efficient Large Language Model Inference with Limited MemoryarXiv(LLM)iPhoneLLMAppleiPhoneLLM\r\n[2312.11514] LLM in a flash: Efficient Large Language Model Inference with Limited … [+845 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Appinn.com"
+    },
+    "author": "青小蛙",
+    "title": "古有 Infuse，现有 VidHub，要不来试试？",
+    "description": "如何在 iPhone、iPad、Mac 以及 Apple TV 这些苹果设备上更先进的播放视频，一直困扰着很多同学。一方面，Infuse 被很多用户念叨：可以播放多种类型的视频，将不同设备上的视频聚合在一起，直接播放网盘",
+    "url": "https://www.appinn.com/vidhub-video-player/",
+    "urlToImage": "https://www.appinn.com/wp-content/uploads/2023/12/Appinn-feature-images-2.jpg",
+    "publishedAt": "2023-12-22T03:02:45Z",
+    "content": "iPhoneiPadMac Apple TV \r\nInfuse \r\n99\r\nInfuse VidHub \r\nVidHub App Store Nas\r\n<ul><li> 4K HDR </li><li> iPhoneiPadMacApple TV </li><li></li><li> 9 </li><li>EmbyJellyfin</li><li></li><li></li><li></li><… [+235 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Blognone.com"
+    },
+    "author": "arjin",
+    "title": "ผลกระทบมากขึ้น - Apple งดเปลี่ยนฮาร์ดแวร์ Apple Watch รุ่นเก่าที่หมดประกันในอเมริกา มีผลถึง Series 6",
+    "description": "แอปเปิลเริ่มหยุดขาย Apple Watch Series 9 และ Apple Watch Ultra 2 ทางออนไลน์มีผลเฉพาะในอเมริกาแล้ว ตามที่บริษัทประกาศก่อนหน้านี้ เพื่อให้เป็นไปตามคำสั่งแบนสินค้าของ ITC จากประเด็นละเมิดสิทธิบัตรของ Masimo อย่างไรก็ตามผลกระทบดูจะไปถึงคนที่ซื้อ Apple Watch มาแล้…",
+    "url": "https://www.blognone.com/node/137352",
+    "urlToImage": "https://www.blognone.com/sites/default/files/externals/5a50175a09decbefe1a41e8cbcbd8966.png",
+    "publishedAt": "2023-12-22T00:03:54Z",
+    "content": "Apple Watch Series 9 Apple Watch Ultra 2 ITC Masimo Apple Watch \r\n Apple Store Apple Watch Apple Watch Series 6, Series 7, Series 8 Apple Watch Ultra \r\n 25 \r\n: 9to5Mac"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Independent.ie"
+    },
+    "author": "Paul Whitington and Sheena McGinley",
+    "title": "What to watch on TV, Netflix, Disney+ and Prime today: Home Cook Christmas, Gangs of New York and Rebel Moon",
+    "description": "Planning a night on the couch? Here are the top picks for today’s TV and streaming options.",
+    "url": "https://www.independent.ie/entertainment/television/what-to-watch-on-tv-netflix-disney-and-prime-today-home-cook-christmas-gangs-of-new-york-and-rebel-moon/a1133603592.html",
+    "urlToImage": "https://focus.independent.ie/thumbor/ihJeh9rpYjeh_WmtzznJAujbEnc=/0x0:484x323/484x323/prod-mh-ireland/a624278c-8fb0-4741-8cc4-cac092cb9a12/acb46e57-52d0-48cc-93c2-81eed2ebf143/a624278c-8fb0-4741-8cc4-cac092cb9a12.jpg",
+    "publishedAt": "2023-12-22T00:00:00Z",
+    "content": "Planning a night on the couch? Here are the top picks for todays TV and streaming options.Donal Skehan: Home Cook ChristmasRTÉ One, 6.30pm More seasonal treats from Donal Skehan, who makes sweet spic… [+4523 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ftchinese.com"
+    },
+    "author": null,
+    "title": "AI研究论文揭示苹果雄心",
+    "description": "苹果研究人员聚焦于在iPhone上直接运行大型语言模型，表明其计划在生成式人工智能领域赶上硅谷竞争对手。\r\n\n\r\n\n\n更新于2023年12月22日 09:48\n 英国《金融时报》 蒂姆•布拉德肖 伦敦报道\n\r\n\n\n\n尊敬的用户您好，这是来自FT中文网的温馨提示：如您对更多FT中文网的内容感兴趣，请在苹果应用商店或谷歌应用市场搜索“FT中文网”，下载FT中文网的官方应用。\r\n\n苹果(Apple)对在智能手机上运行大型语言模型(LLM)的最新研究提供了迄今最明确的信号，表明苹果计划在生成式人工智能(generativ…",
+    "url": "http://www.ftchinese.com/story/001101731?full=y",
+    "urlToImage": "https://thumbor.ftacademy.cn/unsafe/picture/0/000201120_piclink.jpg",
+    "publishedAt": "2023-12-22T01:49:57Z",
+    "content": "(Apple)(LLM)(generative AI)\r\nLLM in a Flash\r\nLLMChatGPTappLLMiPhone\r\n1212(AI)Hugging FaceAIStable Diffusion\r\nCounterpoint ResearchAI5%\r\n2011SiriOpenAIChatGPTAIAI2018(Google)AI(John Giannandrea)\r\n(Mic… [+196 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ixbt.com"
+    },
+    "author": "bobster",
+    "title": "Новая защита Iphone. Как работает защита от кражи после обновления на бету-версию iOS 17.3",
+    "description": "После последней бета-версии iOS 17.3 выпущенной в тот же день, что и вышла стабильная версия iOS 17.2 от 11 декабря, появились новые интересные возможности для защиты гаджета от «угона»....Читать дальше",
+    "url": "https://www.ixbt.com/live/offtopic/novaya-zaschita-iphone-kak-rabotaet-zaschita-ot-krazhi-posle-obnovleniya-na-betu-versiyu-ios-173.html",
+    "urlToImage": "https://img.ixbt.site/live/topics/preview/00/05/78/78/d33465626d.jpg",
+    "publishedAt": "2023-12-22T02:46:40Z",
+    "content": "- iOS 17.3   , iOS 17.2 11 , «». , . Stolen Device Protection . .\r\nStolen Device Protection Face ID Touch ID . , , Appl ID . , . . , . .\r\n « ». , Apple ID .   , «», , . , .\r\n:\r\nhttps://www.macrumors.… [+2 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New Zealand Herald"
+    },
+    "author": "Nikki Birrell",
+    "title": "How to make the perfect punch bowl: Seven things you need to know",
+    "description": "A communal bowl of libation just makes sense for a party - here's how to do it with style.",
+    "url": "https://www.nzherald.co.nz/lifestyle/how-to-make-the-perfect-punch-bowl-7-things-you-need-to-know/UFKZAQ6PYZB3DHCVJE4VTERI3I/",
+    "urlToImage": "https://www.nzherald.co.nz/resizer/NE0ovMPvlg7IPxu1f4lCesai-8U=/1200x675/filters:focal(1384x968:2584x1644)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/UPCCZWO7QJGQHJFBXMB3HLKJVA.jpg",
+    "publishedAt": "2023-12-22T02:00:00Z",
+    "content": "A punch bowl can be an impressive party piece. Photo / Getty ImagesMake a big batch of mixed drinks, serve it in a communal vessel and let the party begin.\r\nWhile clever mixologists in the world of c… [+4440 chars]"
+    },
+    {
+    "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Sarah Rumpf-Whitten",
+    "title": "NYC Mayor blames, in part, rat infestation on why people are leaving the Big Apple",
+    "description": "New York City Mayor Eric Adams said that the rat infestation problem in the city is one of the reason why people are leaving the Big Apple.",
+    "url": "https://www.foxnews.com/politics/nyc-mayor-blames-part-rat-infestation-why-people-leaving-big-apple",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/Rat-nyc-subway.jpg",
+    "publishedAt": "2023-12-22T01:05:00Z",
+    "content": "New York City Mayor Eric Adams said that the reason residents are leaving the Big Apple in droves is, in part, due to the ongoing rat infestation.\r\n\"Some people who have children and families decide … [+3497 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ncspin.com"
+    },
+    "author": "by Lib Campbell",
+    "title": "No room in the inn",
+    "description": "Today, immigrants are demonized and treated with such cruelty it’s almost unimaginable. We seem to have forgotten from whence we came.",
+    "url": "https://www.ncspin.com/no-room-in-the-inn",
+    "urlToImage": "https://www.ncspin.com/content/images/1200x628/62ec32899ce8d.jpg",
+    "publishedAt": "2023-12-22T02:46:57Z",
+    "content": "The Christmas story, as recorded in Luke, says there is no room in the inn for the holy family to find shelter, and a safe place for the baby to be born. Throngs of people are in Bethlehem for the ce… [+4453 chars]"
+    }
+    ]
+    }
+    
