@@ -20,9 +20,8 @@ export default class App extends Component {
       darkMode: false,
     };
   }
- 
-  apiKey =process.env.REACT_APP_NEWS_API_KEY
-
+    apiKey = process.env.REACT_APP_NEWS_API
+  
     toggleMode = () => {
     console.log(this.apiKey1);
     const { darkMode } = this.state;
@@ -39,12 +38,10 @@ export default class App extends Component {
     this.setState({progress:progress})
   }
   
-  // apiKey = "128f11f3c0314bffb6acc5d996e14681";
   render() {
     return (
       <Router>
        <Navbar mode = {this.toggleMode} darkMode ={this.state.darkMode} />
-       {/* <Navbar2/> */}
        <LoadingBar
        height={3}
         color='#f11946'
